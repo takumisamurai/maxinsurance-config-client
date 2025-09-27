@@ -1,0 +1,1 @@
+# maxinsurance-config-client
